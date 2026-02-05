@@ -14,7 +14,7 @@ Began my career in academia, developing high-throughput assays for immunotherapy
 - Serverless architecture
 - Rest APIs/GraphQL/Webhook integration and deployment
 - Workflow automation and process optimization
-- Marketing: CRMs, SEO, ad tracking & analytics (GA/GTM/FB)
+- Marketing: CRMs, SEO, ad/email campaigns, site analytics
 - Biomedical engineering/research (see Linkedin for details)
 
 ## 💻 Tools I've used
